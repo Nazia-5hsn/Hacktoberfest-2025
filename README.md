@@ -66,8 +66,9 @@ Now, download the forked repo to your computer.
 ```bash
 git clone https://github.com/<your-username>/Hacktoberfest-2025.git
 
+```bash
 
----
+
 
 ###🌿Step 3: Create a New Branch
 
