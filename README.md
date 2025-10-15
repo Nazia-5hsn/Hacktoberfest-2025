@@ -66,9 +66,7 @@ Now, download the forked repo to your computer.
 ```bash
 git clone https://github.com/<your-username>/Hacktoberfest-2025.git
 
-```bash
-
-
+```
 
 ###🌿Step 3: Create a New Branch
 
@@ -80,7 +78,7 @@ Run these commands one by one:
 cd Hacktoberfest-2025
 git checkout -b my-first-contribution
 
-
+```
 ---
 
 ### 🧠 Step 4: Make Your Contribution
@@ -98,7 +96,7 @@ Create a new file inside the `Python/` folder named `hello_world.py` and write:
 ```python
 print("Hello Hacktoberfest 2025 from UET Peshawar!")
 
-
+```
 ---
 
 
@@ -109,7 +107,7 @@ Once your changes are ready, tell Git to track and save them:
 ```bash
 git add .
 git commit -m "Added my first contribution"
-
+```
 ---
 
 ### ☁️ Step 6: Push Your Branch to GitHub
@@ -118,7 +116,7 @@ Now upload (push) your branch from your computer to your forked repository on Gi
 
 ```bash
 git push origin my-first-contribution
-
+```
 
 ---
 
