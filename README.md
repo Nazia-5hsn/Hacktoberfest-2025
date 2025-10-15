@@ -68,7 +68,7 @@ git clone https://github.com/<your-username>/Hacktoberfest-2025.git
 
 ```
 
-###🌿Step 3: Create a New Branch
+### 🌿 Step 3: Create a New Branch
 
 Creating a new branch keeps your work separate from the main code and prevents conflicts.
 
