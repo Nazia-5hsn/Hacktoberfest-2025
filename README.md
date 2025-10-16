@@ -5,7 +5,7 @@ Official repository for Hacktoberfest 2025, organized by Microsoft Learn Student
 Welcome to **Hacktoberfest 2025 @ UET Peshawar**, organized by the **Microsoft Learn Student Ambassadors – UET Peshawar**! 💙  
 This guide contains *everything you need* — from understanding open source to making your first Pull Request (PR).  
 No prior experience is needed — just enthusiasm, curiosity, and a laptop! 🚀  
-
+Nazia Hassan 
 ---
 
 ## 🌍 What is Hacktoberfest?
