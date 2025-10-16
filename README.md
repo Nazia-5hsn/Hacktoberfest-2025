@@ -7,7 +7,7 @@ This guide contains *everything you need* — from understanding open source to 
 No prior experience is needed — just enthusiasm, curiosity, and a laptop! 🚀  
 Nazia Hassan 
 ---hhiiiiii
-
+vjsbsisbs
 ## 🌍 What is Hacktoberfest?
 
 **Hacktoberfest** is a month-long global event held every **October**, encouraging people to contribute to **open-source projects** on GitHub.  
