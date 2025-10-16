@@ -6,7 +6,7 @@ Welcome to **Hacktoberfest 2025 @ UET Peshawar**, organized by the **Microsoft L
 This guide contains *everything you need* — from understanding open source to making your first Pull Request (PR).  
 No prior experience is needed — just enthusiasm, curiosity, and a laptop! 🚀  
 Nazia Hassan 
----
+---hhiiiiii
 
 ## 🌍 What is Hacktoberfest?
 
