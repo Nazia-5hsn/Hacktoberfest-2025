@@ -14,7 +14,7 @@ vjsbsisbs
 It’s organized by **DigitalOcean**, **GitHub**, and developer communities around the world.  
 
 Whether you’re a student, beginner, or experienced coder — anyone can participate!  
-
+bsidnskdn
 By contributing to open-source projects, you:
 - Learn real-world coding collaboration 🧑‍💻  
 - Build your portfolio and resume 📚  
